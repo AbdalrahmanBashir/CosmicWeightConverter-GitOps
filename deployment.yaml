@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
         - name: cosmic-weight-converter
-          image: abdalrbashir/cosmic-weight-converter:33fe95f
+          image: abdalrbashir/cosmic-weight-converter:bf5dc39
           imagePullPolicy: Always
           ports:
             - containerPort: 8080
